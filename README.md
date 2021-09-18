@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellenbboe&include_all_commits=true&count_private-true&custom_title=兔子春'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellenbboe&include_all_commits=true&count_private-true&custom_title=兔子春的%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbboe&layout=compact)](https://github.com/ellenbboe/github-readme-stats)
